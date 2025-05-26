@@ -1,2 +1,2 @@
-Social-Media-App:FaceApp
+**Social-Media-App: FaceApp**
 
