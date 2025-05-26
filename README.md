@@ -26,3 +26,7 @@ Authentication: Firebase
 
 ### **📸 Inspiration**
 This project was inspired by Instagram and developed as a practical exploration of building scalable, interactive social platforms. It also showcases skills in frontend/backend integration, API design, and real-time data handling.
+
+### **Sign Up Page**
+
+![image alt](https://github.com/Soumyadeep-Dey/instagram-clone/blob/54f5fa098d14c05376f3da51063e368fd1b9d030/Picture1.png)
