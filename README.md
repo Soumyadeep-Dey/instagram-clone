@@ -30,3 +30,7 @@ This project was inspired by Instagram and developed as a practical exploration 
 ### **Sign Up Page**
 
 ![image alt](https://github.com/Soumyadeep-Dey/instagram-clone/blob/54f5fa098d14c05376f3da51063e368fd1b9d030/Picture1.png)
+
+### **Sign In Page**
+
+![image alt](https://github.com/Soumyadeep-Dey/instagram-clone/blob/main/Picture2.png)
